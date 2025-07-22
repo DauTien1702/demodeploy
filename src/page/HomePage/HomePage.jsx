@@ -1,4 +1,4 @@
-import CarouselImage from "../../component/Carousel/Carousel";
+import CarouselImage from "../../component/Carousel/carousel";
 import FeaturedBrands from "../../component/FeaturedBrands/FeaturedBrands";
 import FeedbackSection from "../../component/FeedbackSection/FeedbackSection";
 import HotProductSection from "../../component/HotProductSection/HotProductSection";
