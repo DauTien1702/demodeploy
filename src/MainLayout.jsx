@@ -31,7 +31,7 @@ import CategoryProductPage from "./page/ProductPage/CategoryProductPage";
 import AllArticle from "./page/NewArticle/NewArticle";
 import CheckoutPage from "./page/CheckoutPage/CheckoutPage";
 import PaymentPage from "./page/PaymentPage/PaymentPage";
-import DashboardOverview from "./page/Admin/DashboardOverview.JSX";
+import DashboardOverview from "./page/Admin/DashboardOverview.jsx";
 import NavigatePage from "./page/StatusPage/NavigatePage";
 import SuccessPage from "./page/StatusPage/SuccessPage";
 import FailedPage from "./page/StatusPage/FailPage";
