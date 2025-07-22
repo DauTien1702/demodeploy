@@ -1,4 +1,4 @@
-import "./Carousel.css";
+import './carousel.css';
 import { Carousel } from "antd";
 
 function CarouselImage() {
